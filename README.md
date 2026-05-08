@@ -39,9 +39,6 @@ I build practical digital systems for lead generation, sales automation, CRM wor
 | **[LeadGen_v5](https://github.com/iac-iac-iac/LeadGen_v5)** | Desktop lead-gen automation: Yandex Maps / 2GIS exports, structuring bases for CRM. |
 | **[mita-marketing-agency](https://github.com/iac-iac-iac/mita-marketing-agency)** | M.I.T.A. agency site and platform: **Next.js 14**, **TypeScript**, **SQLite** CMS. |
 
-<p align="center">
-  <sub>Чтобы закрепить репозитории на карточке профиля GitHub: <strong>Profile → Customize your pins</strong> и выберите, например, <strong>ExoTikA</strong> и другие проекты.</sub>
-</p>
 
 ---
 
