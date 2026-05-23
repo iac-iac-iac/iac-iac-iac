@@ -1,13 +1,12 @@
 <div align="center">
 
-<h1>Ivan · iac-iac-iac</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a4fd4,50:8b6cff,100:2ee8d6&height=140&section=header&text=Ivan%20%7C%20iac-iac-iac&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%"/>
 
-<p><strong>AI · Automation · CRM · Desktop · Web</strong></p>
+<br/>
 
-<p>
-  Практичные системы для лидогенерации, автоматизации продаж, CRM, Telegram-ботов и веб-продуктов.<br/>
-  Practical systems for lead generation, sales automation, CRM workflows, and modern software.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=900&color=2EE8D6&center=true&vCenter=true&width=700&lines=AI+%C2%B7+Automation+%C2%B7+CRM+%C2%B7+Desktop+%C2%B7+Web;Lead+generation+%C2%B7+Bitrix24+%C2%B7+Telegram+bots;Building+tools+that+ship+and+scale" alt="Typing intro"/>
+
+<br/><br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/iac-iac-iac?style=for-the-badge&logo=github&color=8B6CFF)](https://github.com/iac-iac-iac?tab=followers)
 [![Profile views](https://komarev.com/ghpvc/?username=iac-iac-iac&label=PROFILE+VIEWS&color=2EE8D6&style=for-the-badge)](https://github.com/iac-iac-iac)
@@ -15,7 +14,7 @@
 
 <br/>
 
-**Navigate:** [Now](#now--сейчас-в-работе) · [Pinned](#pinned-repos) · [Featured](#featured--избранное) · [Repos](#repositories) · [RU](#ru--обо-мне) · [EN](#en--about-me) · [Stack](#tech-stack) · [MITA](#мита--marketing-it-agency) · [Activity](#github-activity) · [Contact](#contact)
+**Navigate:** [Now](#now--сейчас-в-работе) · [Featured](#featured--избранное) · [Repos](#repositories) · [RU](#ru--обо-мне) · [EN](#en--about-me) · [Stack](#tech-stack) · [MITA](#мита--marketing-it-agency) · [Activity](#github-activity) · [Contact](#contact)
 
 </div>
 
@@ -29,23 +28,6 @@
 | **Active** | [ExoTikA](https://github.com/iac-iac-iac/ExoTikA) | Локальный AI-компаньон · Tauri · память · RU/EN |
 | **Maintained** | [LeadManager_TGBot](https://github.com/iac-iac-iac/LeadManager_TGBot) | Холодные лиды · Telegram · Bitrix24 |
 | **Maintained** | [mita-marketing-agency](https://github.com/iac-iac-iac/mita-marketing-agency) | Сайт М.И.Т.А. · Next.js · CMS |
-
----
-
-## Pinned repos
-
-> Закрепите на профиле GitHub: **Settings → Profile → Pin repositories**  
-> Рекомендуемый порядок: `LeadGen_v6` · `ExoTikA` · `LeadManager_TGBot` · `mita-marketing-agency`
-
-| Repo | Описание |
-|------|----------|
-| [LeadGen_v6](https://github.com/iac-iac-iac/LeadGen_v6) | Десктоп лидогенерации · .NET 10 / WPF |
-| [ExoTikA](https://github.com/iac-iac-iac/ExoTikA) | Локальный AI для Windows |
-| [LeadManager_TGBot](https://github.com/iac-iac-iac/LeadManager_TGBot) | Telegram + Bitrix24 |
-| [mita-marketing-agency](https://github.com/iac-iac-iac/mita-marketing-agency) | Сайт агентства М.И.Т.А. |
-
-**Bio (пример для профиля):**  
-`Building lead-gen & CRM tools · LeadGen v6 · ExoTikA · MITA · WPF / Tauri / Next.js`
 
 ---
 
@@ -222,6 +204,8 @@ Building under **[M.I.T.A.](https://github.com/iac-iac-iac/mita-marketing-agency
 ---
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a4fd4,50:8b6cff,100:2ee8d6&height=80&section=footer" width="100%"/>
 
 **Building systems that turn marketing, sales, and operations into working software.**
 
