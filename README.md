@@ -21,13 +21,13 @@
 
 ---
 
-## ✦ Featured / Избранное
+## Featured / Избранное
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [ExoTikA](https://github.com/iac-iac-iac/ExoTikA)
+### [ExoTikA](https://github.com/iac-iac-iac/ExoTikA)
 
 <img src="https://img.shields.io/github/v/release/iac-iac-iac/ExoTikA?style=flat-square&label=release&color=2EE8D6" alt="release"/>
 
@@ -38,12 +38,10 @@
 </td>
 <td width="50%" valign="top">
 
-### 📊 [LeadGen v6](https://github.com/iac-iac-iac/LeadGen_v6)
+### [LeadGen v6](https://github.com/iac-iac-iac/LeadGen_v6)
 
 <img src="https://img.shields.io/github/v/release/iac-iac-iac/LeadGen_v6?style=flat-square&label=release&color=8B6CFF" alt="release"/>
 <img src="https://img.shields.io/badge/.NET-10-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="dotnet"/>
-
-<img src="https://raw.githubusercontent.com/iac-iac-iac/LeadGen_v6/main/LeadGen/Assets/app-icon-512.png" width="88" alt="LeadGen v6"/>
 
 **WPF** · Webbee AI · **Bitrix24 CSV** · ссылки **Яндекс.Карт**
 
@@ -54,41 +52,20 @@
 <tr>
 <td width="50%" valign="top">
 
-### 💬 [LeadManager_TGBot](https://github.com/iac-iac-iac/LeadManager_TGBot)
+### [LeadManager_TGBot](https://github.com/iac-iac-iac/LeadManager_TGBot)
 
 Telegram-бот для **холодных лидов** + **Bitrix24**: статусы, воронка, быстрый handoff.
 
 </td>
 <td width="50%" valign="top">
 
-### 🏢 [mita-marketing-agency](https://github.com/iac-iac-iac/mita-marketing-agency)
+### [mita-marketing-agency](https://github.com/iac-iac-iac/mita-marketing-agency)
 
 Сайт **М.И.Т.А.**: **Next.js 14**, **TypeScript**, **SQLite** CMS.
 
 </td>
 </tr>
 </table>
-
-```mermaid
-flowchart LR
-    subgraph Ingest["📥 Данные"]
-        W[Webbee AI]
-        M[Карты / 2GIS]
-    end
-    subgraph Tools["⚙️ Инструменты"]
-        L6[LeadGen v6]
-        TG[LeadManager Bot]
-        AI[ExoTikA]
-    end
-    subgraph Out["📤 Результат"]
-        B[Bitrix24]
-        CRM[CRM / продажи]
-    end
-    W --> L6 --> B
-    M --> L6
-    TG --> B
-    AI --> CRM
-```
 
 ---
 
@@ -144,18 +121,23 @@ flowchart LR
 
 ---
 
-## 📈 GitHub Activity
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iac-iac-iac&show_icons=true&theme=github_dark&hide_border=false&border_color=30363d&border_radius=12&title_color=8B6CFF&icon_color=2EE8D6&text_color=c9d1d9&bg_color=0d1117" height="165" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iac-iac-iac&layout=donut&theme=github_dark&hide_border=false&border_color=30363d&border_radius=12&title_color=8B6CFF&text_color=c9d1d9&bg_color=0d1117" height="165" alt="langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=iac-iac-iac&show_icons=true&theme=github_dark&hide_border=true&title_color=8B6CFF&icon_color=2EE8D6&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" height="165" alt="GitHub stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iac-iac-iac&theme=github-dark-blue&hide_border=false&border_radius=12&ring=8B6CFF&fire=2EE8D6&currStreakLabel=8B6CFF" alt="streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iac-iac-iac&layout=compact&theme=github_dark&hide_border=true&title_color=8B6CFF&text_color=c9d1d9&bg_color=0d1117&langs_count=8&hide=html,css,scss&cache_seconds=86400" height="165" alt="Top languages"/>
 </p>
 
-<sub>Cards: github-readme-stats · theme aligned with dark UI</sub>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=iac-iac-iac&theme=dark&hide_border=true&background=0d1117&ring=8B6CFF&fire=2EE8D6&currStreakLabel=8B6CFF&sideLabels=c9d1d9&dates=c9d1d9&sideNums=c9d1d9" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iac-iac-iac&theme=github-compact&hide_border=true&bg_color=0d1117&color=8B6CFF&line=2EE8D6&point=FFFFFF" alt="Contribution graph"/>
+</p>
 
 ---
 
